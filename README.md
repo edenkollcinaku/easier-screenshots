@@ -1,3 +1,5 @@
+![Easier Screenshots. Save to Clipboard and Pictures.](assets/social-preview.png)
+
 # Easier Screenshots
 
 **Take a screenshot on your Mac. Paste it right away and find the file in Pictures → Screenshots.**
